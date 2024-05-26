@@ -1,0 +1,50 @@
+{
+"Лист1":[
+ {
+  "worker": "Антропов",
+  "discharge": 147.27
+ },
+ {
+  "worker": "Упоров",
+  "discharge": 151.52
+ },
+ {
+  "worker": "Миргасов",
+  "discharge": 151.52
+ },
+ {
+  "worker": "Зуев",
+  "discharge": 129.88
+ },
+ {
+  "worker": "Чебаков",
+  "discharge": 187.15
+ },
+ {
+  "worker": "Мартынов",
+  "discharge": 147.27
+ },
+ {
+  "worker": "Красноперов",
+  "discharge": 114.54
+ },
+ {
+  "worker": "Шарапов",
+  "discharge": 129.88
+ }
+],
+"Лист2":[
+ {
+  "Categories": 2,
+  "Price": 114.54
+ },
+ {
+  "Categories": 3,
+  "Price": 129.88
+ },
+ {
+  "Categories": 4,
+  "Price": 147.27
+ }
+]
+}
